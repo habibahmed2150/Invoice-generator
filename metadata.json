@@ -1,0 +1,5 @@
+{
+  "name": "ProInvoice AI",
+  "description": "A professional invoice generator with AI-powered data entry and PDF export capabilities.",
+  "requestFramePermissions": []
+}
